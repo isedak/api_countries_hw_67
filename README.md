@@ -5,5 +5,5 @@
 Создать собственное приложение API с возможностью получения информации по различным странам. Поиск стран должен осуществляться как по id так и по названию.
 Функционал должен позволять удалять/обновлять/просматривать/создавать страны.
 
-* В appsettings.json укажите свои user id= ;password= ;database=CountriesApi
+* В appsettings.json укажите свои user id=example;password=example;database=CountriesApi
 * Чтобы проверить, воспользуйтесь [Postman](https://www.postman.com/). Пример запроса: localhost:5000/api/countries
